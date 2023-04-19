@@ -17,8 +17,15 @@ public class ClientApplication {
 	    System.out.println("addition of a and b:");
 		
 		
+	}
+	    public String getmsg()
+	    {
+	    	
+			return "Welcome To Cybage";
+	    	
+	    }
 	    
 		
-	}
+	
 
 }
